@@ -1,0 +1,28 @@
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
+E:\Data\Dokumen Online\Dropbox\Materi Ngajar\01 2018-2019\02 Genap\01 PEMROGRAMAN\module\soal responsi uas\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\18.11.2269\Materi\Responsi\02 ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+D:\18.11.2269\Materi\Responsi\02 ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+D:\18.11.2269\Materi\Responsi\02 ProjectCustomer\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+D:\18.11.2269\Materi\Responsi\02 ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\18.11.2269\Materi\Responsi\02 ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+D:\18.11.2269\Materi\Responsi\02 ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+D:\18.11.2269\Materi\Responsi\02 ProjectCustomer\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
+E:\ResponsiUAS-master\ResponsiUAS-master\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+E:\ResponsiUAS-master\ResponsiUAS-master\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+E:\ResponsiUAS-master\ResponsiUAS-master\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+E:\ResponsiUAS-master\ResponsiUAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+E:\ResponsiUAS-master\ResponsiUAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+E:\ResponsiUAS-master\ResponsiUAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+E:\ResponsiUAS-master\ResponsiUAS-master\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
+D:\UAS Pemrograman\ProjectCustomer\bin\Debug\ProjectCustomer.exe.config
+D:\UAS Pemrograman\ProjectCustomer\bin\Debug\ProjectCustomer.exe
+D:\UAS Pemrograman\ProjectCustomer\bin\Debug\ProjectCustomer.pdb
+D:\UAS Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.csprojAssemblyReference.cache
+D:\UAS Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.csproj.CoreCompileInputs.cache
+D:\UAS Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.exe
+D:\UAS Pemrograman\ProjectCustomer\obj\Debug\ProjectCustomer.pdb
